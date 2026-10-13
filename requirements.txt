@@ -1,0 +1,8 @@
+# Versions observed in the saved notebook output: TensorFlow 2.14.0 (Google Colab, late 2023)
+tensorflow==2.14.*
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+opencv-python
